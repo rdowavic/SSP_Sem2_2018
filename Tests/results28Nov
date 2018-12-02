@@ -1,0 +1,98 @@
+Size: 64
+bit mult:
+
+real	0m0.009s
+user	0m0.008s
+sys	0m0.001s
+vanilla:
+
+real	0m0.033s
+user	0m0.031s
+sys	0m0.002s
+********************
+Size: 128
+bit mult:
+
+real	0m0.016s
+user	0m0.014s
+sys	0m0.002s
+vanilla:
+
+real	0m0.129s
+user	0m0.125s
+sys	0m0.004s
+********************
+Size: 256
+bit mult:
+
+real	0m0.076s
+user	0m0.073s
+sys	0m0.003s
+vanilla:
+
+real	0m0.826s
+user	0m0.811s
+sys	0m0.014s
+********************
+Size: 512
+bit mult:
+
+real	0m0.371s
+user	0m0.359s
+sys	0m0.011s
+vanilla:
+
+real	0m6.574s
+user	0m6.479s
+sys	0m0.086s
+********************
+Size: 1024
+bit mult:
+
+real	0m2.432s
+user	0m2.397s
+sys	0m0.033s
+vanilla:
+
+real	0m52.000s
+user	0m51.225s
+sys	0m0.685s
+********************
+Size: 2048
+bit mult:
+
+real	0m17.499s
+user	0m17.384s
+sys	0m0.097s
+vanilla:
+
+real	6m55.161s
+user	6m49.195s
+sys	0m5.464s
+********************
+Size: 4096
+bit mult:
+
+real	2m12.732s
+user	2m12.052s
+sys	0m0.548s
+vanilla:
+
+real	55m6.972s
+user	54m19.210s
+sys	0m43.962s
+********************
+Size: 8192
+bit mult:
+
+real	0m0.043s
+user	0m0.002s
+sys	0m0.006s
+vanilla:
+
+real	0m0.008s
+user	0m0.002s
+sys	0m0.003s
+********************
+Size: 16384
+

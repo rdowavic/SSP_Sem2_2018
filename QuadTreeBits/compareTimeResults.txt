@@ -1,0 +1,19 @@
+Size: 64
+bit mult:
+vanilla:
+********************
+Size: 128
+bit mult:
+vanilla:
+********************
+Size: 256
+bit mult:
+vanilla:
+********************
+Size: 512
+bit mult:
+vanilla:
+********************
+Size: 1024
+bit mult:
+vanilla:

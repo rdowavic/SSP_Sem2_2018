@@ -1,0 +1,3 @@
+25 Nov 2018 5:00PM
+  OldQuadtree is correct on all tests
+  MultBits is stuck on 8x8 matrix. Tracing it back. It's trying to build matrices that are too small.
